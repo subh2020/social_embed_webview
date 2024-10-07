@@ -12,7 +12,7 @@ dependencies:
   webview_flutter: ^4.9.0
   url_launcher: ^6.0.3
   localstorage: ^4.0.0+1
-  http: ^1.2.1
+  http: ^0.13.0
 
 
 dev_dependencies:
